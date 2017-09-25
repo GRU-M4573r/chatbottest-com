@@ -1,5 +1,7 @@
 ## Description
 
+Are users understanding was the chatbot about and how to interact with him from the very beginning?
+
 ----
 
 **Instructions**
