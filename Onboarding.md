@@ -7,6 +7,8 @@ Check if there's a profile section (In facebook messenger app is at the top righ
 * Does it have a profile section?
 * Is the purpose of the chatbot clear in the description?
 
+-----
+
 **Instructions**
 
 Start the chatbot. If there's no start button say "Hi"
