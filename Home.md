@@ -15,9 +15,15 @@ Feel free to use the list on your own benefit.
 ### Index
 
 [Answering](https://github.com/chatbottest-com/guide/wiki/Answering)
+
 [Error manage](https://github.com/chatbottest-com/guide/wiki/Error-manage)
+
 [Intelligence](https://github.com/chatbottest-com/guide/wiki/Intelligence)
+
 [Navigation](https://github.com/chatbottest-com/guide/wiki/Navigation)
+
 [Onboarding](https://github.com/chatbottest-com/guide/wiki/Onboarding)
+
 [Personality](https://github.com/chatbottest-com/guide/wiki/Personality)
+
 [Understanding](https://github.com/chatbottest-com/guide/wiki/Understanding)
