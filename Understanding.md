@@ -60,8 +60,6 @@ Send audio
 
 Does it give an answer?
 
-**Questions**
-
 Does the answer make any sense with your audio?
 
 ----
@@ -88,6 +86,8 @@ Does it give an answer?
 
 Does the answer make any sense to your image?
 
+----
+
 ### Bad words
 
 **Instructions**
@@ -101,6 +101,8 @@ Does it have different answers depending on how bad is the word you use?
 Does it try to calm you down and solve the situation?
 
 Does it take any measure against you?
+
+----
 
 ### Language
 
@@ -117,6 +119,8 @@ Does it automatically answer in those different languages going on with the conv
 Does it understand that you are using a different language and propose you to change the conversation to that language?
 
 Does it understand that you are using a different language and reminds you to keep the conversation in english or just gives you a generic error message?
+
+----
 
 ### Love words
 
@@ -137,6 +141,8 @@ Go a little bit further and propose the chatbot to go out.
 **Questions**
 
 Does it have any specific sentence to deal with that?
+
+----
 
 ### Small talk
 
@@ -201,6 +207,8 @@ How are you? - Where are you from? - How old are you? - Who is your father? - Do
 
 Does it try to maintain the conversation?
 
+----
+
 ### Standards use
 
 **Instructions**
@@ -214,6 +222,8 @@ Does the chatbot understand them?
 
 Does the chatbot answer properly to them?
 
+----
+
 ### Typing mistakes
 
 **Instructions**
@@ -223,6 +233,8 @@ Send a message where the main keyword has some letters left (be nice and write s
 **Questions**
 
 Does the chatbot understand the sentences?
+
+----
 
 ### Data validation
 
