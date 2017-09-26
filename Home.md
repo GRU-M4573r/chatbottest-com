@@ -1,16 +1,20 @@
-Welcome to the [chatbottest](chatbottest.com) collaborative guide!
+### Welcome to the [chatbottest](chatbottest.com) collaborative guide! 
 
-This is an open source project by [@chus9000](https://twitter.com/chus9000), [@nieves_as](https://twitter.com/nieves_as) and [@Carlos_Munoz](https://twitter.com/Carlos_Munoz).
+The [chatbottest](chatbottest.com) guide is a compilation of questions ordered under 7 different categories to test specific functionalities on chatbots.
 
-The ChatbotTest guide is a compilation of questions ordered under 7 different categories to test specific functionalities on chatbottest.
+This is an **open source** project by [@chus9000](https://twitter.com/chus9000), [@nieves_as](https://twitter.com/nieves_as) and [@Carlos_Munoz](https://twitter.com/Carlos_Munoz).
 
-You can collaborate on the list by issuing any of the sections.
+### How to contribute
+
+You can **collaborate** on this guide. Please, create a new issue [here](https://github.com/chatbottest-com/guide/issues) with your request, bug info or comment, and we will consider it.
 
 This work is under a creative commons license.
 
-We used it to develop [Alma](http://chatbottest.com), a chrome extension that helps you test chatbots in Telegram.
-
 Feel free to use the list on your own benefit.
+
+### Products built with this guide
+
+We used it to develop [Alma](http://chatbottest.com), a chrome extension that helps you test chatbots in Telegram.
 
 ### Index
 
