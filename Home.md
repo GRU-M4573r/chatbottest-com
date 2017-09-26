@@ -1,6 +1,6 @@
-### Welcome to the [chatbottest](chatbottest.com) collaborative guide! 
+### Welcome to the [chatbottest](http://chatbottest.com) collaborative guide! 
 
-The [chatbottest](chatbottest.com) guide is a compilation of questions ordered under 7 different categories to test specific functionalities on chatbots.
+The [chatbottest](http://chatbottest.com) guide is a compilation of questions ordered under 7 different categories to test specific functionalities on chatbots.
 
 This is an **open source** project by [@chus9000](https://twitter.com/chus9000), [@nieves_as](https://twitter.com/nieves_as) and [@Carlos_Munoz](https://twitter.com/Carlos_Munoz).
 
@@ -10,7 +10,7 @@ You can **collaborate** on this guide. Please, create a new issue [here](https:/
 
 This work is under a creative commons license.
 
-Feel free to use the list on your own benefit.
+Feel free to use the list for your own benefit.
 
 ### Products built with this guide
 
@@ -31,3 +31,6 @@ We used it to develop [Alma](http://chatbottest.com), a chrome extension that he
 [Personality](https://github.com/chatbottest-com/guide/wiki/Personality)
 
 [Understanding](https://github.com/chatbottest-com/guide/wiki/Understanding)
+
+[![Licencia Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+This work is under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).
