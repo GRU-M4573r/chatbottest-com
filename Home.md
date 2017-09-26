@@ -32,5 +32,7 @@ We used it to develop [Alma](http://chatbottest.com), a chrome extension that he
 
 [Understanding](https://github.com/chatbottest-com/guide/wiki/Understanding)
 
+----
+
 [![Licencia Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 This work is under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).
