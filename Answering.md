@@ -1,10 +1,10 @@
-##Description
+## Description
 
 What elements does the chatbot send and how well it is doing it?
 
 ----
 
-###Text as an interface	
+### Text as an interface	
 
 **Instructions**
 
@@ -18,13 +18,13 @@ What's the mode regarding the number of messages in a row sent by the chatbot?
 
 Can you normally read a message sent by you and the chatbot answer without scrolling?
 
-Are the messages properly written or is it normal to find unintended misspelling and gramatical errors?
+Are the messages properly written or is it normal to find unintended misspelling and grammatical errors?
 
 -----
 
 **Instructions**
 
-Repeat a message to the chatbot 4 times in a row, try with something easy like "hi", "thank you", or "good bye"	
+Repeat a message to the chatbot 4 times in a row, try with something easy like "hi", "thank you", or "goodbye"	
 
 **Questions**	
 
@@ -42,7 +42,7 @@ Is there any message of more than 220 characters approximately?
 
 ----
 
-###Other interaction elements
+### Other interaction elements
 
 **Questions**	
 
@@ -62,7 +62,7 @@ Do these resources have good quality?
 
 Does it use rich media elements like buttons, carrousels, rich lists, persistent menu, quick reply, buttons...?
 
-Is the use of those rich media elements consistent in all the chatbot interactions? Carousels are normally used under the same circustances, as rich list do...
+Is the use of those rich media elements consistent in all the chatbot interactions? Carousels are normally used under the same circumstances, as rich list do...
 
 Do you think that those elements are properly used or they might be some easier solutions?
 
