@@ -101,7 +101,7 @@ Ask him other information the chatbot might know about you, like where you live,
 
 Does he know that sort of information?
 
-### Memory
+### Memory
 
 -----
 
